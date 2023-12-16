@@ -1,16 +1,18 @@
 ### Hi there 👋
+My name is Prayas Mahakur
 
-<!--
-**pritum-4/pritum-4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+👨‍💻A front-end developer 
 
-Here are some ideas to get you started:
+coder in Java,C,python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently working on AI/ML 
+
+
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prayas-mahakur-02ab71266/)
+
+## 🏆contributed to hacktoberfest2023
+<img src="https://assets.holopin.io/hf2023levels/level4-blue-helmet-suit-flippers-anchor.webp" width = 200px style="align:center">
+
