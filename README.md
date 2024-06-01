@@ -2,12 +2,13 @@
 My name is Prayas Mahakur
 
 ## 🚀 About Me
-👨‍💻A front-end developer 
+👨‍💻A WEB-DEVELOPER gaining handson experience in html,css,javascript,node etc... 
 
-coder in Java,C,python
+CODING and solving problems in Java , C , python 
 
-🔭 I’m currently working on AI/ML 
+🔭 Learning and discovering insights from AI/ML 
 
+Eager to contribute in projects and help people in solving real-life problem. 
 
 
 ## 🔗 Links
