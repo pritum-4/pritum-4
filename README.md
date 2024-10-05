@@ -2,9 +2,9 @@
 My name is Prayas Mahakur
 
 ## 🚀 About Me
-👨‍💻A WEB-DEVELOPER gaining handson experience in html,css,javascript,node etc... 
+👨‍💻A WEB-DEVELOPER gaining handson experience in html,css,javascript,nodejs etc... 
 
-CODING and solving problems in Java , C , python 
+CODING and solving problems in Java , C , C++ ,  python 
 
 🔭 Learning and discovering insights from AI/ML 
 
